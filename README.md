@@ -1,13 +1,12 @@
-Observations
+# Observations
 
-
-Time of Day
-This information is puzzling and is difficult to draw a conclusion. The accident peak between 4-8 pm seems due to folks leaving work but there isn’t a peak during the assumed morning commute.
+# Time of Day
+\n This information is puzzling and is difficult to draw a conclusion. The accident peak between 4-8 pm seems due to folks leaving work but there isn’t a peak during the assumed morning commute.
 The overwhelming majority are minor accidents. 
 Fatal accidents are by far the lowest type of accident also peaking between 4-8pm.
 
-Day of the week
-Most accidents take place during weekdays, peaking on Friday. It would seem that the reason for this is that there are more cars on the road during weekdays.
+# Day of the week
+\n Most accidents take place during weekdays, peaking on Friday. It would seem that the reason for this is that there are more cars on the road during weekdays.
 
 Month of the year
 We couldn’t draw any meaningful observation from this data as there aren’t any significant differences across the months.
