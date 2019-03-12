@@ -1,28 +1,28 @@
 # Observations
 
-## Time of Day
+## *Time of Day*
 This information is puzzling and is difficult to draw a conclusion. The accident peak between 4-8 pm seems due to folks leaving work but there isn’t a peak during the assumed morning commute.
 The overwhelming majority are minor accidents. 
 Fatal accidents are by far the lowest type of accident also peaking between 4-8pm.
 
-## Day of the week
+## *Day of the week*
 Most accidents take place during weekdays, peaking on Friday. It would seem that the reason for this is that there are more cars on the road during weekdays.
 
-## Month of the year
+## *Month of the year*
 We couldn’t draw any meaningful observation from this data as there aren’t any significant differences across the months.
 
-## Light
+## *Light*
 Most accidents of all types occur during the day - more than double the amount of accidents when there is no light at all. This could be due to the simple fact that more cars are on the road during the day.
 
-## Weather
+## *Weather*
 Most accidents of all types occur when weather conditions are fine. 
 Perhaps drivers are less cautious when there is seemingly nothing to worry about. 
 This could also be due to the fact that there are more days of year with mild/dry weather conditions and the numbers correlate.
 
-## Road Conditions
+## *Road Conditions*
 Contrary to our hypothesis, wet road conditions did not account for a majority of the serious or fatal accidents. Instead, we found dry road conditions were just as dangerous, perhaps implying that weather does not necessarily affect the likelihood of a car accident. 
 
-## Traffic Control
+## *Traffic Control*
 We wanted to suss out whether or not proper traffic infrastructure actually played a role in decreasing the number of overall accidents. What we found was complicated; stop signs and a designated traffic control person had a strong impact on lowering the number of accidents, but automatic lights were almost equally as dangerous as yield or uncontrolled intersections. 
 
 # Overall Conclusion 
